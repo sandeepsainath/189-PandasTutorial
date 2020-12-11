@@ -42,7 +42,7 @@ At the end, you will be able to test whether you retained enough information to 
 
 ## File Structure
 
-- `https://github.com/sandeepsainath/189-PandasTutorial/blob/main/_CS189__Project_T_Final___Pandas__Week_1_.pdf` : Documentation
+- `CS189__Project_T_Final___Pandas__Week_1_.pdf` : Documentation
 - `Project T - Pandas Tutorial in Data Wrangling Slide Deck.pdf` : Slide deck
 - **Assignments**
   - `Pandas Coding Assignment.ipynb`Assignment
