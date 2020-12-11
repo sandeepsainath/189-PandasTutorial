@@ -12,7 +12,7 @@ Before you start this assignment, we assume the following pre-requisite knowledg
   - Data Structures
   - Proficiency in Python
 
-- Recommended: introductory machine learning knowledge
+- Recommended: Introductory machine learning knowledge
 
 ## Environment Set Up
 
@@ -42,9 +42,9 @@ At the end, you will be able to test whether you retained enough information to 
 
 ## File Structure
 
-- `placeholder.pdf` : Documentation
-- `placeholder.pdf` : Slide deck
+- `https://github.com/sandeepsainath/189-PandasTutorial/blob/main/_CS189__Project_T_Final___Pandas__Week_1_.pdf` : Documentation
+- `Project T - Pandas Tutorial in Data Wrangling Slide Deck.pdf` : Slide deck
 - **Assignments**
-  - `placeholder.ipynb`Assignment
-  - `placeholder.pdf` Quiz
-- **Solutions** have been appended with a `_SOL`
+  - `Pandas Coding Assignment.ipynb`Assignment
+  - `Pandas for Data Wrangling Quiz.pdf` Quiz
+- **Solutions** have been appended with `Solutions`
