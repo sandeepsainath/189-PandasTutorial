@@ -37,8 +37,7 @@ The module will consists of:
 - a short quiz designed to assess passing-level understanding of the material
 - coding assignments
 
-You are expected to read through the notes and the slide deck before starting the assignments. The notes will indicate when you can take a certain assignments.
-At the end, you will be able to test whether you retained enough information to be at passing level through taking the quiz.
+You are expected to read through the notes and the slide deck before starting the assignments. At the end, you will be able to test whether you retained enough information to be at passing level through taking the quiz.
 
 ## File Structure
 
