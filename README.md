@@ -42,8 +42,8 @@ At the end, you will be able to test whether you retained enough information to 
 
 ## File Structure
 
-- `CS189__Project_T_Final___Pandas__Week_1_.pdf` : Documentation
-- `Project T - Pandas Tutorial in Data Wrangling Slide Deck.pdf` : Slide deck
+- `Pandas Tutorial - Documentation & Notes.pdf` : Documentation
+- `Pandas Tutorial - Slide Deck.pdf` : Slide deck
 - **Assignments**
   - `Pandas Coding Assignment.ipynb`Assignment
   - `Pandas for Data Wrangling Quiz.pdf` Quiz
