@@ -1,7 +1,8 @@
-# Week 1: Pandas for Data Wrangling
-
-### Note: 
+#### Note: 
 For the last updates of the project, we merged from the following repository due to unforeseen Git issues: [Fork Repo](https://github.com/mandiema/189-Pandas)
+
+
+# Week 1: Pandas for Data Wrangling
 
 Welcome to the assignment for `Pandas for Data Wrangling` in Week 1 of EE16ML.
 This repository and the contained files have been created by team **DSS**, consisting of Kevin Miao, Sandeep Sainath Youngli Hong, and Amanda Ma.
