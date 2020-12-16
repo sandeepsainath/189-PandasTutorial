@@ -1,5 +1,5 @@
 #### Note: 
-For the last updates of the project, we merged from the following repository due to unforeseen Git issues: [Fork Repo](https://github.com/mandiema/189-Pandas)
+For the last updates of the project, we merged from the following repository due to unforeseen Git issues: [https://github.com/mandiema/189-Pandas](https://github.com/mandiema/189-Pandas)
 
 
 # Week 1: Pandas for Data Wrangling
