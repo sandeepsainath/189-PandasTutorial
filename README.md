@@ -1,3 +1,8 @@
+#### Note
+Last Commit:
+- Reorganization of repository
+- Addition from extra practice assignment from repository: https://github.com/mandiema/189-Pandas.
+
 # Week 1: Pandas for Data Wrangling
 
 Welcome to the assignment for `Pandas for Data Wrangling` in Week 1 of EE16ML.
